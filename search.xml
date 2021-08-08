@@ -3003,6 +3003,20 @@ MAC子层处理CSMA/CD算法、数据出错校验、成帧等；LLC子层定义�
       </tags>
   </entry>
   <entry>
+    <title>vscode remote-ssh连接问题</title>
+    <url>/2021/08/08/vscode-remote-ssh%E8%BF%9E%E6%8E%A5%E9%97%AE%E9%A2%98/</url>
+    <content><![CDATA[<p>remote ssh连接不上，下载vscode对应的提交ID</p>
+<span id="more"></span>
+<p><img src="/images/pasted-146.png" class="lazyload" data-srcset="/images/pasted-146.png" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt="upload successful"></p>
+]]></content>
+      <categories>
+        <category>Linux</category>
+      </categories>
+      <tags>
+        <tag>vscode</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>WordNet和中文Wordnet</title>
     <url>/2020/05/28/wordnet/</url>
     <content><![CDATA[<h2 id="1-WordNet"><a href="#1-WordNet" class="headerlink" title="1. WordNet"></a>1. WordNet</h2><p>WordNet是由Princeton 大学的心理学家，语言学家和计算机工程师联合设计的一种基于认知语言学的英语词典。它不是光把单词以字母顺序排列，而且按照单词的意义组成一个“单词的网络”。</p>
